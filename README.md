@@ -1,4 +1,4 @@
-# JS Animation Library
+# KolibriJS
 This is a simple and lightweight JavaScript animation library. It can be easily integrated, especially for carousels and other animations.
 
 ## Features
