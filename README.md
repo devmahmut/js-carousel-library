@@ -22,6 +22,7 @@ const carousel = new AnimationLibrary({
 <br> items: 3,
 <br> loop: true,
 <br> autoplay: true
+<br>
 });
 
 
@@ -32,5 +33,5 @@ const carousel = new AnimationLibrary({
 - autoplay: Automatically starts the carousel.
 
 
-## License
+## License
 This project is licensed under the MIT License.
